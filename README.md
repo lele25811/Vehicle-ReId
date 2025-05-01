@@ -22,5 +22,5 @@ The trained models should be able to correctly re-identify the same vehicle acro
 
 | Notebook Name                        | Rank-1 Accuracy | Rank-5 Accuracy | Rank-5 Accuracy | mAP    |
 |--------------------------------------|-----------------|-----------------|-----------------|--------|
-| Vehicle_ReId_CNN_ContrastiveLoss     | 26.16%          | 56.54%          | 70.27%          | 14.96% |
+| Vehicle_ReId_CNN_ContrastiveLoss     | 26.92%          | 58.57%          | 72.48%          | 16.28% |
 | Vehicle_ReId_CNN_TripletLoss         | 73.69%          | 90.93%          | 94.92%          | 25.09% |
